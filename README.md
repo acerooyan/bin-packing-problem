@@ -14,3 +14,5 @@ Project report test each algorithm on lists of items of length n, as n grows, wh
 The waste, W(A), of a bin-packing algorithm, A, for any given list of items, is the number of bins used by the algorithm A minus the total size (i.e., the sum) of all the items in the list.
 
 I test multiple random sequences for each length n, and have n grow, and then plot the results on a log-log scale (Links to an external site.) to see if there is a line that fits the data. If so, I determine the slope of that line, so as to provide experimental evidence for estimating W(A) as a function of n, and I give that function in my report, for each algorithm, A.
+
+see more deatils here: https://github.com/acerooyan/bin-packing-problem/blob/main/report.pdf
